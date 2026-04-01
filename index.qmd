@@ -1,0 +1,22 @@
+---
+title: "Comunidad sobre enfermedades infecciosas sensibles al clima de Latinoamérica y el Caribe"
+lang: es
+format: html
+editor: visual
+image: imagenes/icono.png
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/CSID-LAC
+    - icon: envelope
+      text: Email
+      href: mailto:csidlac@gmail.com
+---
+
+*Estamos en la búsqueda de un logo. Si tienes alguna idea para compartir no dudes en ponerte en contacto.
+

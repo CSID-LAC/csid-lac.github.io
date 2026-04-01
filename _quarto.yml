@@ -1,0 +1,27 @@
+project:
+  type: website
+
+
+website:
+  title: "CSID - Latinoamércia y el Caribe"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Inicio
+      - href: nuestra_cop.qmd
+        text: Nuestra comunidad
+      - href: ser_parte.qmd
+        text: Ser parte
+      - href: novedades.qmd
+        text: Novedades
+      - icon: github # add icons as navbar buttons
+        href: https://github.com/CSID-LAC
+        target: _blank
+  page-footer:
+    background: light # or `dark` or omit this option altogether (footer color will match page body color)
+    left: Copyright 2026, CSID-LAC
+format:
+  html:
+    theme: cosmos
+    css: styles.css
+    toc: true

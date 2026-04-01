@@ -1,0 +1,36 @@
+---
+title: "Ser parte"
+lang: es
+format: html
+editor: visual
+---
+
+## ¿Quiénes pueden sumarse a la comunidad?
+
+Si todavía no tienes en claro si esta comunidad es para tí, te dejamos algunas personas tipo para que consideres si hay algún perfil con el que te sientas identifacada/o.
+
+Miguel está comenzado su doctorado estudiando la dinámica de la distribución de *Aedes aegypti* en los últimos años utilizando modelos matemáticos. Lo motiva la idea de contribuir a la generación de un modelo predictivo y la posibilidad de incorporarlo a una aplicación pero no sabe programar. Además, está muy interesado en seguir los principios de ciencia abierta pero su director no está muy convencido porque le preocupa el extractivismo de los datos generados.
+
+Agustín dirige un club de ciencias en una escuela pública urbana. Cuenta con alumnos y alumnas provenientes de diferentes contextos socioeconómicos que identifican como una problemática local la presencia de un terreno baldío próximo a la escuela donde hay criaderos de mosquitos. Lleva adelante un proyecto que le permite trabajar conceptos como: ciclo de vida de un insecto, educación ambiental, cambio climático, vacunas, etc. Quiere que en el club trabajen además la dimensión política y presentar un pedido de intervención al municipio para que se encargue del mantenimiento del terreno. Está interesado en establecer vínculos con gestores para que el alumnado pueda involucrarse en las medidas que tome el municipio. También con la comunidad académica que pueda acercarse al club y compartirles las últimas novedades respecto a sus temas de interés.
+
+Carolina es programadora y le gusta participar como voluntaria en iniciativas donde considera que hay un impacto positivo sobre la comunidad. Aboga por el software libre y participa de diversas comunidades de práctica donde ayuda a las personas más novatas con sus dudas iniciales. 
+
+Susana está encargada del área de epidemiología de su municipio. Dirige un equipo con el que coordina las acciones en territorio ante enfermedades de notificación obligatoria y/o pedidos específicos de los equipos de salud. Le encantaría poder dedicar más tiempo a proyectos de más largo plazo y con vinculación con la comunidad, pero la coyuntura hace que siempre queden relegados ante los problemas cotidianos. Trabaja en un entorno donde los recursos humanos y económicos no abundan y donde hay cierta reticencia a compartir datos por temor a un uso político de los mismos.
+
+Alejandra se dedica a difundir las actividades que se organizan en el centro cultural donde trabaja. Le interesan los temas ligados a la salud pero no encuentra cómo conectarlos directamente con su trabajo.
+
+## ¿Cómo contribuir?
+
+Hay muchas formas de aportar a la comunidad. Te dejamos algunas a modo de inspiración, pero no son las únicas y ¡somos todo oídos para otras!
+
+1.  Divulgación de las actividades de la comunidad y sus integrantes en el sitio web, redes sociales y newsletter.
+
+2.  Colaboraciones en proyectos cocreados por integrantes de la red
+
+3.  Recopilación de fuentes de financiación para proyectos de la temática
+
+4.  Creación de contenido, ya sea colaborando en el mantenimiento del sitio web o en el desarrollo de herramientas de análisis (por ejemplo compartiendo código en GitHub)
+
+## Bien, me interesa ¿cómo me pongo en contacto?
+
+Te invitamos a que completes este [formulario](https://forms.gle/w5uAqzD2DXjxU8rB6) (te llevará aproximadamente 7 minutos). Aunque puedes completarlo en tu teléfono móvil, puede ser más cómodo si utilizas una computadora.

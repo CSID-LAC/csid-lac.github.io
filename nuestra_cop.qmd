@@ -1,0 +1,29 @@
+---
+title: "Nuestra comunidad"
+lang: es
+format: html
+editor: visual
+---
+
+Somos personas que buscamos impulsar el desarrollo de herramientas abiertas para enfermedades infecciosas sensibles al clima (o CSID por sus siglas en inglés) en Latinoamérica y el Caribe.
+
+## ¿Quiénes somos?
+
+::::: columns
+::: {.column width="30%"}
+![](imagenes/avatar.jpg)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="55%"}
+### Sabrina Lopez (Organizadora)
+
+<br> 
+
+[sitio web](https://slldec.github.io) \| [LinkedIn](https://www.linkedin.com/in/sabrina-l-l%C3%B3pez-4b675851/) \| [GitHub](https://github.com/slldec)
+:::
+:::::
+
+## Nos apoyan
+
+Esta es una iniciativa apoyada por la Climate Sensitive Infectious Disease Network ([CSIDNet](csidnet.org)) a través de su programa de Fellows financiado por [Wellcome Trust](https://wellcome.org/).

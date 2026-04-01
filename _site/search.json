@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Comunidad sobre enfermedades infecciosas sensibles al clima de Latinoamérica y el Caribe",
+    "section": "",
+    "text": "*Estamos en la búsqueda de un logo. Si tienes alguna idea para compartir no dudes en ponerte en contacto."
+  },
+  {
+    "objectID": "index.html#quarto",
+    "href": "index.html#quarto",
+    "title": "CSID-LAC",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html#running-code",
+    "href": "index.html#running-code",
+    "title": "CSID-LAC",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "ser_parte.html",
+    "href": "ser_parte.html",
+    "title": "Ser parte",
+    "section": "",
+    "text": "Si todavía no tienes en claro si esta comunidad es para tí, te dejamos algunas personas tipo para que consideres si hay algún perfil con el que te sientas identifacada/o.\nMiguel está comenzado su doctorado estudiando la dinámica de la distribución de Aedes aegypti en los últimos años utilizando modelos matemáticos. Lo motiva la idea de contribuir a la generación de un modelo predictivo y la posibilidad de incorporarlo a una aplicación pero no sabe programar. Además, está muy interesado en seguir los principios de ciencia abierta pero su director no está muy convencido porque le preocupa el extractivismo de los datos generados.\nAgustín dirige un club de ciencias en una escuela pública urbana. Cuenta con alumnos y alumnas provenientes de diferentes contextos socioeconómicos que identifican como una problemática local la presencia de un terreno baldío próximo a la escuela donde hay criaderos de mosquitos. Lleva adelante un proyecto que le permite trabajar conceptos como: ciclo de vida de un insecto, educación ambiental, cambio climático, vacunas, etc. Quiere que en el club trabajen además la dimensión política y presentar un pedido de intervención al municipio para que se encargue del mantenimiento del terreno. Está interesado en establecer vínculos con gestores para que el alumnado pueda involucrarse en las medidas que tome el municipio. También con la comunidad académica que pueda acercarse al club y compartirles las últimas novedades respecto a sus temas de interés.\nCarolina es programadora y le gusta participar como voluntaria en iniciativas donde considera que hay un impacto positivo sobre la comunidad. Aboga por el software libre y participa de diversas comunidades de práctica donde ayuda a las personas más novatas con sus dudas iniciales. \nSusana está encargada del área de epidemiología de su municipio. Dirige un equipo con el que coordina las acciones en territorio ante enfermedades de notificación obligatoria y/o pedidos específicos de los equipos de salud. Le encantaría poder dedicar más tiempo a proyectos de más largo plazo y con vinculación con la comunidad, pero la coyuntura hace que siempre queden relegados ante los problemas cotidianos. Trabaja en un entorno donde los recursos humanos y económicos no abundan y donde hay cierta reticencia a compartir datos por temor a un uso político de los mismos.\nAlejandra se dedica a difundir las actividades que se organizan en el centro cultural donde trabaja. Le interesan los temas ligados a la salud pero no encuentra cómo conectarlos directamente con su trabajo."
+  },
+  {
+    "objectID": "ser_parte.html#ser-parte",
+    "href": "ser_parte.html#ser-parte",
+    "title": "CSID-LAC",
+    "section": "",
+    "text": "Si todavía no tienes en claro si esta comunidad es para tí, te dejamos algunas personas tipo para que consideres si hay algún perfil con el que te sientas identifacada/o.\nMiguel está comenzado su doctorado estudiando la dinámica de la distribución de Aedes aegypti en los últimos años utilizando modelos matemáticos. Lo motiva la idea de contribuir a la generación de un modelo predictivo y la posibilidad de incorporarlo a una aplicación pero no sabe programar. Además, está muy interesado en seguir los principios de ciencia abierta pero su director no está muy convencido porque le preocupa el extractivismo de los datos generados.\nAgustín dirige un club de ciencias en una escuela pública urbana. Cuenta con alumnos y alumnas provenientes de diferentes contextos socioeconómicos que identifican como una problemática local la presencia de un terreno baldío próximo a la escuela donde hay criaderos de mosquitos. Lleva adelante un proyecto que le permite trabajar conceptos como: ciclo de vida de un insecto, educación ambiental, cambio climático, vacunas, etc. Quiere que en el club trabajen además la dimensión política y presentar un pedido de intervención al municipio para que se encargue del mantenimiento del terreno. Está interesado en establecer vínculos con gestores para que el alumnado pueda involucrarse en las medidas que tome el municipio. También con la comunidad académica que pueda acercarse al club y compartirles las últimas novedades respecto a sus temas de interés.\nCarolina es programadora y le gusta participar como voluntaria en iniciativas donde considera que hay un impacto positivo sobre la comunidad. Aboga por el software libre y participa de diversas comunidades de práctica donde ayuda a las personas más novatas con sus dudas iniciales. \nSusana está encargada del área de epidemiología de su municipio. Dirige un equipo con el que coordina las acciones en territorio ante enfermedades de notificación obligatoria y/o pedidos específicos de los equipos de salud. Le encantaría poder dedicar más tiempo a proyectos de más largo plazo y con vinculación con la comunidad, pero la coyuntura hace que siempre queden relegados ante los problemas cotidianos. Trabaja en un entorno donde los recursos humanos y económicos no abundan y donde hay cierta reticencia a compartir datos por temor a un uso político de los mismos.\nAlejandra se dedica a difundir las actividades que se organizan en el centro cultural donde trabaja. Le interesan los temas ligados a la salud pero no encuentra cómo conectarlos directamente con su trabajo.\n\n\n\nHay muchas formas de aportar a la comunidad. Te dejamos algunas a modo de inspiración, pero no son las únicas y ¡somos todo oídos para otras!\n\nDivulgación de las actividades de la comunidad y sus integrantes en el sitio web, redes sociales y newsletter.\nColaboraciones en proyectos cocreados por integrantes de la red\nRecopilación de fuentes de financiación para proyectos de la temática\nCreación de contenido, ya sea colaborando en el mantenimiento del sitio web o en el desarrollo de herramientas de análisis (por ejemplo compartiendo código en GitHub)\n\n\n\n\nTe invitamos a que completes este formulario (te llevará aproximadamente 7 minutos). Aunque puedes completarlo en tu teléfono móvil, puede ser más cómodo si utilizas una computadora."
+  },
+  {
+    "objectID": "index.html#quiénes",
+    "href": "index.html#quiénes",
+    "title": "CSID-LAC",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "ser_parte.html#quiénes-pueden-sumarse-a-la-comunidad",
+    "href": "ser_parte.html#quiénes-pueden-sumarse-a-la-comunidad",
+    "title": "Ser parte",
+    "section": "",
+    "text": "Si todavía no tienes en claro si esta comunidad es para tí, te dejamos algunas personas tipo para que consideres si hay algún perfil con el que te sientas identifacada/o.\nMiguel está comenzado su doctorado estudiando la dinámica de la distribución de Aedes aegypti en los últimos años utilizando modelos matemáticos. Lo motiva la idea de contribuir a la generación de un modelo predictivo y la posibilidad de incorporarlo a una aplicación pero no sabe programar. Además, está muy interesado en seguir los principios de ciencia abierta pero su director no está muy convencido porque le preocupa el extractivismo de los datos generados.\nAgustín dirige un club de ciencias en una escuela pública urbana. Cuenta con alumnos y alumnas provenientes de diferentes contextos socioeconómicos que identifican como una problemática local la presencia de un terreno baldío próximo a la escuela donde hay criaderos de mosquitos. Lleva adelante un proyecto que le permite trabajar conceptos como: ciclo de vida de un insecto, educación ambiental, cambio climático, vacunas, etc. Quiere que en el club trabajen además la dimensión política y presentar un pedido de intervención al municipio para que se encargue del mantenimiento del terreno. Está interesado en establecer vínculos con gestores para que el alumnado pueda involucrarse en las medidas que tome el municipio. También con la comunidad académica que pueda acercarse al club y compartirles las últimas novedades respecto a sus temas de interés.\nCarolina es programadora y le gusta participar como voluntaria en iniciativas donde considera que hay un impacto positivo sobre la comunidad. Aboga por el software libre y participa de diversas comunidades de práctica donde ayuda a las personas más novatas con sus dudas iniciales. \nSusana está encargada del área de epidemiología de su municipio. Dirige un equipo con el que coordina las acciones en territorio ante enfermedades de notificación obligatoria y/o pedidos específicos de los equipos de salud. Le encantaría poder dedicar más tiempo a proyectos de más largo plazo y con vinculación con la comunidad, pero la coyuntura hace que siempre queden relegados ante los problemas cotidianos. Trabaja en un entorno donde los recursos humanos y económicos no abundan y donde hay cierta reticencia a compartir datos por temor a un uso político de los mismos.\nAlejandra se dedica a difundir las actividades que se organizan en el centro cultural donde trabaja. Le interesan los temas ligados a la salud pero no encuentra cómo conectarlos directamente con su trabajo."
+  },
+  {
+    "objectID": "ser_parte.html#cómo-contribuir",
+    "href": "ser_parte.html#cómo-contribuir",
+    "title": "Ser parte",
+    "section": "¿Cómo contribuir?",
+    "text": "¿Cómo contribuir?\nHay muchas formas de aportar a la comunidad. Te dejamos algunas a modo de inspiración, pero no son las únicas y ¡somos todo oídos para otras!\n\nDivulgación de las actividades de la comunidad y sus integrantes en el sitio web, redes sociales y newsletter.\nColaboraciones en proyectos cocreados por integrantes de la red\nRecopilación de fuentes de financiación para proyectos de la temática\nCreación de contenido, ya sea colaborando en el mantenimiento del sitio web o en el desarrollo de herramientas de análisis (por ejemplo compartiendo código en GitHub)"
+  },
+  {
+    "objectID": "ser_parte.html#bien-me-interesa-cómo-me-pongo-en-contacto",
+    "href": "ser_parte.html#bien-me-interesa-cómo-me-pongo-en-contacto",
+    "title": "Ser parte",
+    "section": "Bien, me interesa ¿cómo me pongo en contacto?",
+    "text": "Bien, me interesa ¿cómo me pongo en contacto?\nTe invitamos a que completes este formulario (te llevará aproximadamente 7 minutos). Aunque puedes completarlo en tu teléfono móvil, puede ser más cómodo si utilizas una computadora."
+  },
+  {
+    "objectID": "nuestra_cop.html",
+    "href": "nuestra_cop.html",
+    "title": "Nuestra comunidad",
+    "section": "",
+    "text": "Somos personas que buscamos impulsar el desarrollo de herramientas abiertas para enfermedades infecciosas sensibles al clima (o CSID por sus siglas en inglés) en Latinoamérica y el Caribe."
+  },
+  {
+    "objectID": "nuestra_cop.html#quiénes-somos",
+    "href": "nuestra_cop.html#quiénes-somos",
+    "title": "Nuestra comunidad",
+    "section": "¿Quiénes somos?",
+    "text": "¿Quiénes somos?\n\n\n\n\n\n\n\nSabrina Lopez (Organizadora)\n\nsitio web | LinkedIn | GitHub"
+  },
+  {
+    "objectID": "nuestra_cop.html#nos-apoyan",
+    "href": "nuestra_cop.html#nos-apoyan",
+    "title": "Nuestra comunidad",
+    "section": "Nos apoyan",
+    "text": "Nos apoyan\nEsta es una iniciativa apoyada por la Climate Sensitive Infectious Disease Network (CSIDNet) a través de su programa de Fellows financiado por Wellcome Trust."
+  },
+  {
+    "objectID": "novedades.html",
+    "href": "novedades.html",
+    "title": "Novedades",
+    "section": "",
+    "text": "¡Próximamente!"
+  },
+  {
+    "objectID": "index.html#comunidad-sobre-enfermedades-infecciosas-sensibles-al-clima-de-latinoamérica-y-el-caribe",
+    "href": "index.html#comunidad-sobre-enfermedades-infecciosas-sensibles-al-clima-de-latinoamérica-y-el-caribe",
+    "title": "Comunidad sobre enfermedades infecciosas sensibles al clima de Latinoamérica y el Caribe",
+    "section": "",
+    "text": "Estamos en la búsqueda de un logo. Si tienes alguna idea para compartir no dudes en ponerte en contacto."
+  }
+]

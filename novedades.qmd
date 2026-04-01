@@ -1,0 +1,8 @@
+---
+title: "Novedades"
+lang: es
+format: html
+editor: visual
+---
+
+¡Próximamente!
